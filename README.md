@@ -1,4 +1,6 @@
-# WhiZZ Scripts
+# WhiZZ Builds
 Scripts that will make you go Bruhhhhhh. 
 
-Inspired from [Rotten Scripts](https://github.com/HarshCasper/Rotten-Scripts) by [Harsh Mishra](https://github.com/HarshCasper)
+From 3D to Audio if you can make it simpler just Make a PR.
+
+All thing everything is accepted over here, just make sure it's unique
