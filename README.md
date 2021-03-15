@@ -1,5 +1,5 @@
 # WhiZZ Builds
-Scripts that will make you go Bruhhhhhh. 
+If you have the idea we can help you with it. 
 
 From 3D to Audio if you can make it simpler just Make a PR.
 
